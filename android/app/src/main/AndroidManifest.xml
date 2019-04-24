@@ -1,5 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
   package="com.driversall">
+=======
+  package="com.drivers2">
+>>>>>>> nova versao
 
     <uses-permission android:name="android.permission.INTERNET" />
 
